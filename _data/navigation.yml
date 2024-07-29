@@ -1,0 +1,21 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/    
+
+#  - title: "Experience"
+#    url: /cv/
+
+#  - title: "Awards"
+#    url: /awards/
+
+  - title: "Medical AI Lab (MedAI)"
+    url: /lab/
+            
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+  
