@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "MedAI Lab"
 title_separator          : "-"
-name                     : &name "Min Shi"
+name                     : &name "MedAI Lab"
 description              : &description "Assistant Professor @ UL at Lafayette"
 url                      : https://shiminxst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
