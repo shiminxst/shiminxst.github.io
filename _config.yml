@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Shi"
+title                    : "MedAI"
 title_separator          : "-"
 name                     : &name "Min Shi"
 description              : &description "Assistant Professor @ UL at Lafayette"
