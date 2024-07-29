@@ -19,7 +19,7 @@ Current Members
             <img src="/images/img/students/man.png" class="author__avatar" alt="Nasimul Hasan">
       </div>
       <div class="author__content">
-            <p><a href = "">Nasimul Hasan</a><br/>(2024 - )</p>
+            <p><a href = "">Nasimul Hasan</a><br/>(2024 - present)</p>
       </div>
       </center>
     </div>
