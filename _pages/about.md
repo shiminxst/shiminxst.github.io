@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I joined the University of Louisiana at Lafayette as an Assistant Professor in 2024. I earned my Ph.D. from Florida Atlantic University under the guidance of Professors <a href="https://faculty.eng.fau.edu/tangy/">Yufei Tang</a> and <a href="https://www.cse.fau.edu/~xqzhu/index.html">Xingquan Zhu</a> in 2020. I completed postdoctoral training at Washington University in St. Louis in March 2022, and at Harvard University in August 2024. 
+I joined the University of Louisiana at Lafayette as an Assistant Professor in 2024. I earned my Ph.D. from Florida Atlantic University under the guidance of Professors Yufei Tang and Xingquan Zhu in 2020. I completed postdoctoral training at Washington University in St. Louis in March 2022, and at Harvard University in August 2024. 
 
 ## Research Interests
 
