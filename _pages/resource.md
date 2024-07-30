@@ -31,7 +31,7 @@ Curated Medical Datasets
 - **FairDomain:** A large-scale cross-domain medical imaging dataset (20,000 patients) for domain adaptation and fairness learning, including image classification and segmentation tasks. Patient demographic information include gender, race, ethnicity, preferred lanague, and marital status. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/FairDomain?tab=readme-ov-file) [Download the Data](https://ophai.hms.harvard.edu/datasets/harvard-fairdomain20k)
 
 <p align="center">
-    <img src="/images/img/project/fairdomain.png" width="400">
+    <img src="/images/img/project/fairdomain.png" width="500">
 </p>
 
 
