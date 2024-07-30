@@ -17,7 +17,8 @@ Our lab is dedicated to the interdisciplinary study of artificial intelligence (
 
 
 &#x1F4D9; $\color{DarkSalmon}{\textsf{JOIN US NOW!}}$ 
-> . We are thrilled to invite motivated master's students and interns to join the lab. 
+- One GTA PhD position is available for Spring 2025. We are looking for creative, energetic, and committed students with a keen interest in medical AI research. Applicants should hold a master's degree in computer science or a related field. Please send your CV and a sample publication as attachments to Dr. Shi at toshimin132@gmail.com.
+- Motivated master's students and interns are welcome to join the lab.
 
 
 
