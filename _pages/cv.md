@@ -25,7 +25,7 @@ Work Experience
   * Postdoctoral Fellow, PI: Dr. Mengyu Wang
 - **Mass Eye and Ear**, Boston, MA,  Mar 2022 - Aug 2024
   * Research Fellow, PI: Dr. Mengyu Wang
-- **Washington University School of Medicine in St. Louis,**, Louis, MO, Aug 2020 - Mar 2022
+- **Washington University School of Medicine in St. Louis**, Louis, MO, Aug 2020 - Mar 2022
   * Postdoctoral Fellow, PI: Dr. Shamim Mollah
   
 Service and Leadership
