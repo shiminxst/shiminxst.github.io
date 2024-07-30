@@ -25,7 +25,7 @@ Current Members
     </div>
 </div>
 
-## External Collaborations
+## External Collaborators
 - <a href="https://www.cse.fau.edu/~xqzhu/index.html">Dr. Xingquan Zhu</a>, Florida Atlantic University
 - <a href="https://ophai.hms.harvard.edu/team/dr-wang/">Dr. Mengyu Wang</a>, Harvard Medical School
 - <a href="https://luoyan407.github.io/">Dr. Yan Luo</a>, Harvard Medical School
