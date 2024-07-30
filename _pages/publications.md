@@ -23,11 +23,11 @@ Yan Luo\*, Yu Tian\*, Min Shi\*, Tobias Elze, Mengyu Wang. **IEEE Transactions o
 Min Shi, Yu Tian, Yan Luo, Tobias Elze, Mengyu Wang. **Medical Image Analysis** 2024.[[link](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000355)]
 * A deep learning model for screening computed tomography imaging for thyroid eye disease and compressive optic neuropathy<br/>
 Lisa Y Lin, Paul Zhou, Min Shi, Jonathan E Lu, Soomin Jeon, Doyun Kim, Josephine M Liu, Mengyu Wang, Synho Do, Nahyoung Grace Lee. **Ophthalmology Science** 2024. [[link](https://www.sciencedirect.com/science/article/pii/S2666914523001446)]
+* Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling<br/>
+Yu Tian\*, Min Shi\*, Yan Luo\*, Ava Kouhana, Tobias Elze, Mengyu Wang. **ICLR** 2024. [[link](https://arxiv.org/abs/2311.02189)]
 
 ### 2023
 
-* Harvard FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling<br/>
-Yu Tian\*, Min Shi\*, Yan Luo\*, Ava Kouhana, Tobias Elze, Mengyu Wang. **ICLR** 2023. [[link](https://arxiv.org/abs/2311.02189)]
 * Artifact correction in retinal nerve fiber layer thickness maps using deep learning and its clinical utility in glaucoma<br/>
 Min Shi, Jessica A Sun, Anagha Lokhande, Yu Tian, Yan Luo, Tobias Elze, Lucy Q Shen, Mengyu Wang. **TVST** 2023. [[link](https://tvst.arvojournals.org/article.aspx?articleid=2792999)]
 * RatioVLP: Ambient Light Noise Evaluation and Suppression in the Visible Light Positioning System<br/>
