@@ -16,10 +16,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/man.png" class="author__avatar" alt="Nasimul Hasan">
+            <img src="/images/img/students/nasimul.jpg" class="author__avatar" alt="Nasimul Hasan">
       </div>
       <div class="author__content">
-            <p><a href = "https://nasimulhasan.github.io/nasimulhasan/">Nasimul Hasan</a><br/>(2024 - present)</p>
+            <p><a href = "https://nasimulhasan.github.io/nasimulhasan/" target="_blank">Nasimul Hasan</a><br/>(2024 - present)</p>
       </div>
       </center>
     </div>
