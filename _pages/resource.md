@@ -34,5 +34,5 @@ Medical AI Tools
 - **EyeLearn:** An AI-driven tool for artifact correction in the retinal nerve fiber layer thickness (RNFLT) map. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/EyeLearn)
 
 <p align="center">
-    <img src="/images/img/project/eyelearn" width="400">
+    <img src="/images/img/project/eyelearn.png" width="400">
 </p>
