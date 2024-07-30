@@ -10,12 +10,12 @@ location: "Lafayette, LA"
 
 **Class Time**: Mondays 11AM to 11:50AM.  **Room**: EBU3B (CSE) 2154.
 
-Overview
+## Overview
 ======
 
 This course primarily concentrates on introducing contemporary methods and models essential for analyzing and mining real-world data. Students will gain hands-on experience in various key topics such as big data analysis, classification, clustering, association rule mining, and representation learning. 
 
-Learning Objectives
+## Learning Objectives
 ======
 
 - Understand basic concepts and techniques of data mining.
@@ -24,17 +24,17 @@ Learning Objectives
 - Apply state-of-the-art data mining technology to real-world applications.
 
 
-Prerequisites
+## Prerequisites
 ======
 
 CMPS 460
 
-TA and Office Hours
+## TA and Office Hours
 ======
 
 TBD
 
-Course Grading Scale
+## Course Grading Scale
 ======
 
 90% and above | A (including A, A-)      
@@ -43,7 +43,7 @@ Course Grading Scale
 40-59% | D (including D+, C, and D-)
 39% and below or cheating | F
 
-Course Evaluation Method
+## Course Evaluation Method
 ======
 
 Item | Percentage | Note
@@ -52,7 +52,7 @@ Paper presentation | 30% |
 Final project proposal | 10% |
 Project report and code | 30% |
 
-Lecture Schedule
+## Lecture Schedule
 ======
 
 **HW Note**: All HWs due by the end of the day, Central Time. 
@@ -71,7 +71,7 @@ Week | Topic & Slides                                                  | Events
 11   | Special Topics and Course Summary |
 
 
-Homework (30%)
+## Homework (30%)
 ======
 
 - **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/w3dobgyr32uu61gl1j2mk/HW-1.zip?rlkey=eh8stynzp0j2rf3reu1v0dmd4&dl=0).
@@ -79,12 +79,12 @@ Homework (30%)
 - **HW2.** Phrase Mining Applications and Future Work. 
     - Due: May 21
 
-Reading Assignment (30%)
+## Reading Assignment (30%)
 ======
 
 TBD
 
-Project (30%)
+## Project (30%)
 ======
 
 TBD
