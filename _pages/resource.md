@@ -38,4 +38,4 @@ Medical AI Tools
 </p>
 
 **Related Paper:** Artifact-tolerant clustering-guided contrastive embedding learning for ophthalmic images in glaucoma<br/>
-M Shi, A Lokhande, M Fazli, V Sharma, Y Tian, Y Luo, L Pasquale, T Elze, M Boland, N Zebardast, D Friedman, L Shen, M Wang. **IEEE Journal of Biomedical and Health Informatics** 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10159482/)]
+M Shi, A Lokhande, M Fazli, V Sharma, Y Tian, Y Luo, L Pasquale, T Elze, M Boland, N Zebardast, D Friedman, L Shen, M Wang. IEEE Journal of Biomedical and Health Informatics. 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10159482/)]
