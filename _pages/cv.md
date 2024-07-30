@@ -19,7 +19,7 @@ Work Experience
 ======
 - **University of Louisiana at Lafayette**, Lafayette, LA,  Aug 2024 - Present
   * Assistant Professor, School of Computing & Informatics
-- **Harvard Medical School**, Boston, LA,  Aug 2024 - Present
+- **Harvard Medical School**, Boston, MA,  Aug 2024 - Present
   * Visiting Scholar
 - **Harvard Medical School**, Boston, MA,  Mar 2022 - Aug 2024
   * Postdoctoral Fellow, PI: Dr. Mengyu Wang
