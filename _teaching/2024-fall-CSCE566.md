@@ -10,7 +10,7 @@ location: "Lafayette, LA"
 
 **Class Time**: Mondays 11AM to 11:50AM.  **Room**: EBU3B (CSE) 2154.
 
-## Overview
+Overview
 ======
 
 This course primarily concentrates on introducing contemporary methods and models essential for analyzing and mining real-world data. Students will gain hands-on experience in various key topics such as big data analysis, classification, clustering, association rule mining, and representation learning. 
