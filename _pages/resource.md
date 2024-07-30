@@ -34,5 +34,8 @@ Medical AI Tools
 - **EyeLearn:** An AI-driven tool for artifact correction in the retinal nerve fiber layer thickness (RNFLT) map. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/EyeLearn)
 
 <p align="center">
-    <img src="/images/img/project/eyelearn.png" width="500">
+    <img src="/images/img/project/eyelearn.png" width="600">
 </p>
+
+**Paper:** Artifact-tolerant clustering-guided contrastive embedding learning for ophthalmic images in glaucoma<br/>
+Min Shi, Anagha Lokhande, Mojtaba S Fazli, Vishal Sharma, Yu Tian, Yan Luo, Louis R Pasquale, Tobias Elze, Michael V Boland, Nazlee Zebardast, David S Friedman, Lucy Q Shen, Mengyu Wang. **IEEE Journal of Biomedical and Health Informatics** 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10159482/)]
