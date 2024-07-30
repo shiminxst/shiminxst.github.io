@@ -27,18 +27,18 @@ CMPS 460
 TBD
 
 ## Course Grading Scale
-90% and above | A (including A, A-)      
-70-89% | B (including B+, B, and B-) 
-60-69% | C (including C+, C, and C-)
-40-59% | D (including D+, C, and D-)
-39% and below or cheating | F
+90% and above              | A (including A, A-)      
+70-89%                     | B (including B+, B, and B-) 
+60-69%                     | C (including C+, C, and C-)
+40-59%                     | D (including D+, C, and D-)
+39% and below or cheating  | F
 
 ## Course Evaluation Method
-Item | Percentage | Note
-Homework | 30% |   
-Paper presentation | 30% |  
-Final project proposal | 10% |
-Project report and code | 30% |
+Item                     | Percentage | Note
+Homework                 | 30% |   
+Paper presentation       | 30% |  
+Final project proposal   | 10% |
+Project report and code  | 30% |
 
 ## Lecture Schedule
 **HW Note**: All HWs due by the end of the day, Central Time. 
