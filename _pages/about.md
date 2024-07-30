@@ -3,8 +3,9 @@ permalink: /
 title: ""
 author_profile: true
 ---
-
+<div style="margin-top: -20px;">
 Welcome to Min’s Homepage
+/div>
 ======
 I joined the University of Louisiana at Lafayette - School of Computing & Informatics as an Assistant Professor in 2024. I earned my Ph.D. from Florida Atlantic University under the guidance of Professors Yufei Tang and Xingquan Zhu in 2020. I completed postdoctoral training at Washington University in St. Louis in March 2022, and at Harvard University in August 2024. 
 
