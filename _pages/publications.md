@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=NoA9KFIAAAAJ&hl=en) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Min+Shi)] (\* Equal Contribution)
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=NoA9KFIAAAAJ&hl=en) \| [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/min.shi.3/bibliography/public/)] (\* Equal Contribution)
 
 ### 2024
 
