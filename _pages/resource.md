@@ -41,7 +41,7 @@ Medical AI Tools
 **Related Paper:** Artifact-tolerant clustering-guided contrastive embedding learning for ophthalmic images in glaucoma<br/>
 M Shi, A Lokhande, M Fazli, V Sharma, Y Tian, Y Luo, L Pasquale, T Elze, M Boland, N Zebardast, D Friedman, L Shen, M Wang. IEEE Journal of Biomedical and Health Informatics. 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10159482/)]
 
-- **VFTransformer:** An AI-driven tool for predicting 10-2 visual filed map from 24-2 visual field data. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/VFTransformer)
+- **VFTransformer:** An AI-driven tool for predicting 10-2 visual field map from 24-2 visual field data. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/VFTransformer)
 
 <p align="center">
     <img src="/images/img/project/vftransformer.png" width="500">
