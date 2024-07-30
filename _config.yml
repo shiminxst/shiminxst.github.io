@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "MedAI"
-title_separator          : "-"
-name                     : &name "MedAI"
+title_separator          : ""
+name                     : "MedAI"
 description              : &description "Assistant Professor @ UL at Lafayette"
 url                      : https://shiminxst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
