@@ -16,7 +16,7 @@ Yu Tian\*, Congcong Wen\*, Min Shi\*, Muhammad Afzal, Hao Huang, Muhammad Khan, 
 * Transformer-based Deep Learning Prediction of 10-Degree Humphrey Visual Field Tests from 24-Degree Data<br/>
 Min Shi, Anagha Lokhande, Yu Tian, Yan Luo, Mohammad Eslami, Saber Kazeminasab, Tobias Elze, Lucy Q Shen, Louis R. Pasquale, sarah wellik, C. Gustavo De Moraes, Jonathan S Myers, Nazlee Zebardast, David S Friedman, Michael V Boland, Mengyu Wang. **TVST** 2024.
 * FairCLIP: Harnessing Fairness in Vision-and-Language Learning.<br/>
-Yan Luo\*, Min Shi\*, Muhammad Osama Khan\*, Muhammad Muneeb Afzal, Hao Huang, Shuaihang Yuan, Yu Tian, Luo Song, Ava Kouhana, Tobias Elze, Yi Fang, Mengyu Wang. **CVPR** 2024. [[arXiv:2404.14372](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_FairCLIP_Harnessing_Fairness_in_Vision-Language_Learning_CVPR_2024_paper.pdf)]
+Yan Luo\*, Min Shi\*, Muhammad Osama Khan\*, Muhammad Muneeb Afzal, Hao Huang, Shuaihang Yuan, Yu Tian, Luo Song, Ava Kouhana, Tobias Elze, Yi Fang, Mengyu Wang. **CVPR** 2024. [[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Luo_FairCLIP_Harnessing_Fairness_in_Vision-Language_Learning_CVPR_2024_paper.pdf)]
 * Harvard Glaucoma Fairness: A Retinal Nerve Disease Dataset for Fairness Learning and Fair Identity Normalization<br/>
 Yan Luo\*, Yu Tian\*, Min Shi\*, Tobias Elze, Mengyu Wang. **IEEE Transactions on Medical Imaging** 2024. [[link](https://arxiv.org/pdf/2306.09264)]
 * RNFLT2Vec: Artifact-Corrected Representation Learning for Retinal Nerve Fiber Layer Thickness Maps<br/>
@@ -122,7 +122,7 @@ Min Shi, Jianxun Liu, Dong Zhou, Yufei Tang. **IEEE Transactions on Services Com
 * WE-LDA: a word embeddings augmented LDA model for web services clustering <br/>
 Min Shi, Jianxun Liu, Dong Zhou, Mingdong Tang, Buqing Cao. **ICWS** 2017. 
 * A HYBRID APPROACH FOR AUTOMATIC MASHUP TAG RECOMMENDATION <br/>
-Min Shi, Jianxun Liu, Dong Zhou. **JOURNAL OF WEB ENGINEERING** 2017.
+Min Shi, Jianxun Liu, Dong Zhou. **Journal of Web Engineering** 2017.
 
 ### 2016
 
