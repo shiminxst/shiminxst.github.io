@@ -15,6 +15,11 @@ I joined the University of Louisiana at Lafayette as an Assistant Professor in 2
 
 Our lab is dedicated to the interdisciplinary study of artificial intelligence (AI) and biomedicine. We focus on utilizing advanced computational techniques such as data mining, machine learning, and deep learning to tackle critical biomedical challenges. Our objective is to enhance the diagnosis and clinical management of human diseases through cutting-edge AI-driven tools and methodologies.
 
+
+```diff
+- text in red
+```
+
 <!--
 ## My Schedule
 
