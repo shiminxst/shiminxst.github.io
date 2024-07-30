@@ -27,6 +27,7 @@ CMPS 460
 TBD
 
 ## Course Grading Scale
+
 90% and above              | A (including A, A-)      
 70-89%                     | B (including B+, B, and B-) 
 60-69%                     | C (including C+, C, and C-)
@@ -34,6 +35,7 @@ TBD
 39% and below or cheating  | F
 
 ## Course Evaluation Method
+
 Item                     | Percentage | Note
 Homework                 | 30% |   
 Paper presentation       | 30% |  
