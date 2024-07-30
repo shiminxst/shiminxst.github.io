@@ -1,3 +1,8 @@
+---
+permalink: /
+title: ""
+author_profile: true
+---
 
 Welcome to Min’s Homepage
 ======
