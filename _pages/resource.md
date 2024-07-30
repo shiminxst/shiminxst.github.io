@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Datasets
+Meidcal Datasets
 ======
 
 
-Tools
+Medical AI Tools
 ======
