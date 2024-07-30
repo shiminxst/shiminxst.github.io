@@ -27,7 +27,6 @@ Curated Medical Datasets
 <p align="center">
     <img src="/images/img/project/fairclip.png" width="400">
 </p>
-
 <br/>
 
 Medical AI Tools
