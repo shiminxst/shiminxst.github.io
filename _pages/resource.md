@@ -25,7 +25,7 @@ Curated Medical Datasets
 - **FairCLIP:** A large-scale vision-language medical dataset (10,000 patients) for fairness learning. Patient demographic information include gender, race, ethnicity, preferred lanague, and marital status. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP) [Download the Data](https://drive.google.com/open?id=1bkeifigwOAfnsLvup9mJOSNeA3WsvA2l&usp=drive_fs)
 
 <p align="center">
-    <img src="/images/img/project/fairclip.png" width="600">
+    <img src="/images/img/project/fairclip.png" width="400">
 </p>
 
 Medical AI Tools
