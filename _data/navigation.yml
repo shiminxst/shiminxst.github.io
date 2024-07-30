@@ -17,6 +17,9 @@ main:
 
   - title: "Members"
     url: /lab/
+
+  - title: "Resources"
+    url: /resource/
             
 #  - title: "Blog Posts"
 #    url: /year-archive/
