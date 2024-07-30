@@ -17,7 +17,7 @@ Our lab is dedicated to the interdisciplinary study of artificial intelligence (
 
 &#x1F4D9; $\color{DarkSalmon}{\textsf{Join Now!}}$ 
 
-* We are thrilled to invite motivated master's students and interns to join the lab. 
+> We are thrilled to invite motivated master's students and interns to join the lab. 
 
 
 
