@@ -28,10 +28,12 @@ Curated Medical Datasets
     <img src="/images/img/project/fairclip.png" width="400">
 </p>
 
+<br/>
+
 Medical AI Tools
 ======
 
-- **EyeLearn:** An AI-driven tool for artifact correction in the retinal nerve fiber layer thickness (RNFLT) map. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/EyeLearn)
+- **EyeLearn:** An AI-driven tool for artifact correction in the retinal nerve fiber layer thickness map. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/EyeLearn)
 
 <p align="center">
     <img src="/images/img/project/eyelearn.png" width="600">
@@ -39,3 +41,12 @@ Medical AI Tools
 
 **Related Paper:** Artifact-tolerant clustering-guided contrastive embedding learning for ophthalmic images in glaucoma<br/>
 M Shi, A Lokhande, M Fazli, V Sharma, Y Tian, Y Luo, L Pasquale, T Elze, M Boland, N Zebardast, D Friedman, L Shen, M Wang. IEEE Journal of Biomedical and Health Informatics. 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10159482/)]
+
+- **VFTransformer:** An AI-driven tool for predicting 10-2 visual filed map from 24-2 visual field data. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/VFTransformer)
+
+<p align="center">
+    <img src="/images/img/project/vftransformer.png" width="600">
+</p>
+
+**Related Paper:** Transformer-based Deep Learning Prediction of 10-Degree Humphrey Visual Field Tests from 24-Degree Data <br/>
+M Shi, A Lokhande, Y Tian, Y Luo, M Eslami, S Kazeminasab, T Elze, L Shen, L Pasquale, S Wellik, C Moraes, J Myers, N Zebardast, D Friedman, M Boland, M Wang. Translational Vision Science & Technology. 2024. [[link](https://ieeexplore.ieee.org/)]
