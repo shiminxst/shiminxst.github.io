@@ -1,18 +1,19 @@
 ---
 permalink: /
 title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Welcome to Min's Homepage
-
+Welcome to Min's Homepage
+======
 I joined the University of Louisiana at Lafayette - School of Computing & Informatics as an Assistant Professor in 2024. I earned my Ph.D. from Florida Atlantic University under the guidance of Professors Yufei Tang and Xingquan Zhu in 2020. I completed postdoctoral training at Washington University in St. Louis in March 2022, and at Harvard University in August 2024. 
 
-## Medical AI Lab (MedAI)
-
+Medical AI Lab (MedAI)
+======
 Our lab is dedicated to the interdisciplinary study of artificial intelligence (AI) and biomedicine. We focus on utilizing advanced computational techniques such as data mining, machine learning, and deep learning to tackle critical biomedical challenges. Our objective is to enhance the diagnosis and clinical management of human diseases through cutting-edge AI-driven tools and methodologies.
 
 
