@@ -17,7 +17,7 @@ Our lab is dedicated to the interdisciplinary study of artificial intelligence (
 
 
 &#x1F4D9; $\color{DarkSalmon}{\textsf{JOIN US NOW!}}$ 
-- One GTA PhD position is available for Spring 2025. We are looking for creative, energetic, and committed students with a keen interest in medical AI research. Applicants should hold a master's degree in computer science or a related field. Please send your CV and a sample publication as attachments to Dr. Shi at toshimin132@gmail.com. The admission requirements can be found at <a href="https://louisiana.edu/graduateschool/admissions/admissions-requirements" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Graduate School Application Page</a>.
+- One GTA PhD position is available for Spring 2025. We are looking for creative, energetic, and committed students with a keen interest in medical AI research. Applicants should hold a master's degree in computer science or a related field. Please send your CV and a sample publication as attachments to Dr. Shi at toshimin132@gmail.com. The admission requirements can be found at <a href="https://louisiana.edu/graduateschool/admissions/admissions-requirements" style="text-decoration: none;">Graduate School Application Page</a>.
 - Motivated master's students and interns are welcome to join the lab.
 
 
