@@ -26,6 +26,6 @@ Current Members
 </div>
 
 ## External Collaborators
-- <a href="https://ophai.hms.harvard.edu/team/dr-wang/">Dr. Mengyu Wang</a>, Harvard Medical School
-- <a href="https://luoyan407.github.io/">Dr. Yan Luo</a>, Harvard Medical School
-- <a href="https://yutianyt.com/">Dr. Yu Tian</a>, University of Pennsylvania
+- <a href="https://ophai.hms.harvard.edu/team/dr-wang/" stype="text-decoration: none;" target="_blank">Dr. Mengyu Wang</a>, Harvard Medical School
+- <a href="https://luoyan407.github.io/" stype="text-decoration: none;" target="_blank">Dr. Yan Luo</a>, Harvard Medical School
+- <a href="https://yutianyt.com/" stype="text-decoration: none;" target="_blank">Dr. Yu Tian</a>, University of Pennsylvania
