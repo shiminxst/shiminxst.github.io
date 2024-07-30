@@ -44,7 +44,7 @@ M Shi, A Lokhande, M Fazli, V Sharma, Y Tian, Y Luo, L Pasquale, T Elze, M Bolan
 - **VFTransformer:** An AI-driven tool for predicting 10-2 visual field map from 24-2 visual field data. [GitHub](https://github.com/Harvard-Ophthalmology-AI-Lab/VFTransformer)
 
 <p align="center">
-    <img src="/images/img/project/vftransformer.png" width="500">
+    <img src="/images/img/project/vftransformer.png" width="450">
 </p>
 
 **Related Paper:** Transformer-based Deep Learning Prediction of 10-Degree Humphrey Visual Field Tests from 24-Degree Data <br/>
