@@ -37,7 +37,7 @@ TBD
 ## Course Evaluation Method
 
 Item                     | Percentage | Note
-Homework                 | 30% |   
+Homework                 | 30% |   2 HWs
 Paper presentation       | 30% |  
 Final project proposal   | 10% |
 Project report and code  | 30% |
@@ -60,10 +60,10 @@ Week | Topic & Slides                                                  | Events
 
 
 ## Homework (30%)
-- **HW1.** [Text Classification with Different Techniques](https://www.dropbox.com/scl/fi/w3dobgyr32uu61gl1j2mk/HW-1.zip?rlkey=eh8stynzp0j2rf3reu1v0dmd4&dl=0).
-    - Due: April 23
-- **HW2.** Phrase Mining Applications and Future Work. 
-    - Due: May 21
+- **HW1.** 
+    - Due: 
+- **HW2.** 
+    - Due: 
 
 ## Reading Assignment (30%)
 TBD
