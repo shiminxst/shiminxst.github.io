@@ -86,7 +86,7 @@ author:
   bio              : "Assistant Professor"
   location         : "CSCE 3104"
   employer         : "University of Louisiana, Lafayette"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/min.shi.3/bibliography/public"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NoA9KFIAAAAJ&hl=en"
   email            : "toshimin132@gmail.com"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,7 +97,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "shiminxst"
+  # github           : "shiminxst"
   # google_plus      :
   # keybase          :
   # instagram        :
