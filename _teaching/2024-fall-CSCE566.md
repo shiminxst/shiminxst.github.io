@@ -24,7 +24,7 @@ This course covers fundamental methods and techniques for analyzing and mining r
 ## Prerequisites
 CMPS 460, or consent with instructor
 
-## Instructor and Meeting Time
+## Instructor and Office Hours
 
 Instructor    | Dr. Min Shi   
 Office        | Oliver 350
