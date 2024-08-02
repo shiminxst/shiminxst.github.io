@@ -4,11 +4,11 @@ collection: teaching
 type: "Graduate Class"
 permalink: /teaching/2024-fall-CSCE566
 venue: "CSCE, ULL"
-date: 2024-08-01
+date: 2024-08-26
 location: "Lafayette, LA"
 ---
 
-**Class Time**: Mondays 11AM to 11:50AM.  **Room**: James R. Oliver.
+**Class Time**: Mondays and Wednesday, 2:30PM to 3:45PM.  **Room**: James R. Oliver, Room 119A.
 
 ## Overview
 This course primarily concentrates on introducing contemporary methods and models essential for analyzing and mining real-world data. Students will gain hands-on experience in various key topics such as big data analysis, classification, clustering, association rule mining, and representation learning. 
@@ -21,18 +21,18 @@ This course primarily concentrates on introducing contemporary methods and model
 
 
 ## Prerequisites
-CMPS 460
+CMPS 460, or consent with instructor
 
 ## TA and Office Hours
-TBD
+Thursday, 3PM to 5PM
 
 ## Course Grading Scale
 
-90% and above              | A (including A, A-)      
-70-89%                     | B (including B+, B, and B-) 
-60-69%                     | C (including C+, C, and C-)
-40-59%                     | D (including D+, C, and D-)
-39% and below or cheating  | F
+90-100%       | A   
+80-89%        | B
+70-79%        | C 
+60‐69%        | D 
+0‐59%         | F
 
 ## Course Evaluation Method
 
@@ -56,7 +56,7 @@ Week | Topic & Slides                                                  | Events
 8    | Recommender System: [Collaborative filtering, Latent factor models](https://www.dropbox.com) |
 9    | Text & Network Mining: [Bags-of-words, TF-IDF, Random graph models, PageRank](https://www.dropbox.com) |
 10   | Selected Paper Presentation |
-11   | Special Topics and Course Summary |
+11   | Introduction to Deep Learning |
 
 
 ## Homework (30%)
