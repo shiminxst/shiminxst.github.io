@@ -60,7 +60,7 @@ Week | Topic & Slides                                                  | Events
 8    | Recommender System: [Collaborative filtering, Latent factor models](https://www.dropbox.com) |
 9    | Text & Network Mining: [Bags-of-words, TF-IDF, Random graph models, PageRank](https://www.dropbox.com) |
 10   | Selected Paper Presentation |
-11   | INtroduction to Deep Learning |
+11   | Introduction to Deep Learning |
 
 
 ## Textbook and Readings
