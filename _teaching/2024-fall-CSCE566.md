@@ -47,10 +47,23 @@ Paper presentation       | 30% |
 Final project proposal   | 10% |
 Project report and code  | 30% |
 
-## Textbook and Readings
-**HW Note**: All HWs due by the end of the day, Central Time. 
+## Lecture Schedule 
 
-## Lecture Schedule
+Week | Topic & Slides                                                  | Events
+1    | Introduction: [Course overview, Core concepts of data mining, and Introduction to Python](https://www.dropbox.com) |
+2    | Regression: [Least square regression, Logistic regression, Overfitting, and Regularization](https://www.dropbox.com) | HW1 out
+3    | Classification: [Support vector machines, Naïve Bayes](https://www.dropbox.com) |
+4    | Classification: [Decision tree, Ensemble learning: bagging and boosting, Evaluation metrics](https://www.dropbox.com) |
+5    | Clustering: [K-means clustering, Hierarchical clustering, "Soft" clustering: gaussian mixture, Principle component analysis](https://www.dropbox.com) |
+6    | Pattern Analysis: [Association rule mining](https://www.dropbox.com) |
+7    | Midterm |
+8    | Recommender System: [Collaborative filtering, Latent factor models](https://www.dropbox.com) |
+9    | Text & Network Mining: [Bags-of-words, TF-IDF, Random graph models, PageRank](https://www.dropbox.com) |
+10   | Selected Paper Presentation |
+11   | INtroduction to Deep Learning |
+
+
+## Textbook and Readings
 This course does not have a required textbook. All necessary readings and materials will be made available on the course website. 
 
 - Jiawei Han, Jian Pei, Hanghang Tong. <a herf="https://datamineaz.org/textbooks/hanDataMiningConceptual.pdf">Data Mining Concepts and Techniques</a>. 4th edition. Morgan Kaufmann, 2023.
@@ -63,7 +76,9 @@ This course does not have a required textbook. All necessary readings and materi
 - **HW1.** 
     - Due: 
 - **HW2.** 
-    - Due: 
+    - Due:
+
+**HW Note**: All HWs due by the end of the day, Central Time. 
 
 ## Reading Assignment (30%)
 TBD
