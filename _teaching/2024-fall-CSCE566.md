@@ -8,7 +8,7 @@ date: 2024-08-26
 location: "Lafayette, LA"
 ---
 
-**Class Time**: Mondays and Wednesday, 2:30PM to 3:45PM.  **Room**: James R. Oliver, Room 119A.
+**Class Time**: Mondays and Wednesdays, 2:30PM to 3:45PM.  **Room**: James R. Oliver, Room 119A.
 
 ## Overview
 This course covers fundamental methods and techniques for analyzing and mining real-world data, including topics such as big data analysis, classification, clustering, association rule mining, and representation learning.
