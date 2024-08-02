@@ -63,8 +63,10 @@ Week | Topic & Slides                                                  | Events
 11   | Introduction to Deep Learning |
 
 
-## Textbook and Readings
+## Textbook
 This course does not have a required textbook. All necessary readings and materials will be made available on the course website. 
+
+Interested learners are recommended to the following texts:
 
 - Jiawei Han, Jian Pei, Hanghang Tong. <a herf="https://datamineaz.org/textbooks/hanDataMiningConceptual.pdf">Data Mining Concepts and Techniques</a>. 4th edition. Morgan Kaufmann, 2023.
 - Wes McKinneyz. Python for Data Analysis, 3E. O’Reilly, 2023.
