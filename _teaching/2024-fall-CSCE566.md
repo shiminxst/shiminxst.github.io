@@ -9,7 +9,6 @@ location: "Lafayette, LA"
 ---
 
 **Class Time**: Mondays and Wednesdays, 2:30PM to 3:45PM.  
-
 **Room**: James R. Oliver, Room 119A.
 
 ## Overview
