@@ -33,18 +33,18 @@ Email         | min.shi@louisiana.edu
 
 ## Lecture Schedule 
 
-Week | Topic & Slides                                                  | Events
-1    | Introduction: [Course overview, Core concepts of data mining, and Introduction to Python](https://www.dropbox.com) |
-2    | Regression: [Least square regression, Logistic regression, Overfitting, and Regularization](https://www.dropbox.com) | HW1 out
-3    | Classification: [Support vector machines, Naïve Bayes](https://www.dropbox.com) |
-4    | Classification: [Decision tree, Ensemble learning: bagging and boosting, Evaluation metrics](https://www.dropbox.com) |
-5    | Clustering: [K-means clustering, Hierarchical clustering, "Soft" clustering: gaussian mixture, Principle component analysis](https://www.dropbox.com) |
-6    | Pattern Analysis: [Association rule mining](https://www.dropbox.com) |
-7    | Midterm |
-8    | Recommender System: [Collaborative filtering, Latent factor models](https://www.dropbox.com) |
-9    | Text & Network Mining: [Bags-of-words, TF-IDF, Random graph models, PageRank](https://www.dropbox.com) |
-10   | Selected Paper Presentation |
-11   | Introduction to Deep Learning |
+Index | Topics                               | Events
+1    | Introduction to class and data mining |
+2    | Frequent itemset mining               | HW1 out
+3    | Matrix data mining                    |
+4    | Text data mining                      |
+5    | Image data mining                     |
+6    | Graph data mining                     |
+7    | Time-series data mining               |
+8    | Data mining challenges                |
+9    | Introduction to deep learning         |
+10   | Application: medical image classification |
+11   | Selected Paper Presentation           |
 
 ## Textbook
 This course does not have a required textbook. All necessary readings and materials will be made available on the course website. 
@@ -70,8 +70,8 @@ Interested learners are recommended to the following texts:
 
 Item                     | Percentage | Note
 Homework                 | 30% |   2 HWs
-Paper presentation       | 30% |  
-Final project proposal   | 10% |
+Midterm Exam             | 20%
+Paper presentation       | 20% |  
 Project report and code  | 30% |
 
 ## Homework (30%)
