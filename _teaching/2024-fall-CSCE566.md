@@ -1,7 +1,7 @@
 ---
 title: "2024-Fall-CSCE566-Data Mining"
 collection: teaching
-type: "Graduate Class"
+type: "Graduate Course"
 permalink: /teaching/2024-fall-CSCE566
 venue: "CSCE, ULL"
 date: 2024-08-26
