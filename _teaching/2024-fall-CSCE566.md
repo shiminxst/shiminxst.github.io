@@ -44,7 +44,7 @@ Index | Topics                               | Events
 8    | Data mining challenges                |
 9    | Introduction to deep learning         |
 10   | Application: medical image classification |
-11   | Selected Paper Presentation           |
+11   | Selected paper presentation           |
 
 ## Textbook
 This course does not have a required textbook. All necessary readings and materials will be made available on the course website. 
