@@ -1,7 +1,7 @@
 ---
 title: "2024-Fall-CSCE629-Advanced Topic in Artificial Intelligence"
 collection: teaching
-type: "Research Class"
+type: "Research Course"
 permalink: /teaching/2024-fall-CSCE629
 venue: "CSCE, ULL"
 date: 2024-08-01
