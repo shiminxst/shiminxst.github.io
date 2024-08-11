@@ -8,5 +8,5 @@ date: 2024-08-01
 location: "Lafayette, LA"
 ---
 
-**Class Time**: Mondays 4:00PM to 6:50AM.  **Room**: ames R. Oliver, Room 350
+**Class Time**: Mondays 4:00PM to 6:50AM.  **Room**: James R. Oliver, Room 350
 
