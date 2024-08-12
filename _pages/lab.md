@@ -25,6 +25,22 @@ Current Members
     </div>
 </div>
 
+## Master Students
+
+<div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/shreeya.jpg" class="author__avatar" alt="Shreeya Pandey">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/shreeya-pandey-881496124/" target="_blank">Shreeya Pandey</a><br/>(2024 - present)</p>
+      </div>
+      </center>
+    </div>
+</div>
+
+
 ## Collaborators
 - <a href="https://ophai.hms.harvard.edu/team/dr-wang/" style="text-decoration: none;" target="_blank">Dr. Mengyu Wang</a>, Harvard Medical School
 - <a href="https://luoyan407.github.io/" style="text-decoration: none;" target="_blank">Dr. Yan Luo</a>, Harvard Medical School
