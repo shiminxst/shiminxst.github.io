@@ -29,7 +29,7 @@ Current Members
             <img src="/images/img/students/leila.jpg" class="author__avatar" alt="Leila Gheisi">
       </div>
       <div class="author__content">
-            <p><a href = "" target="_blank">Leila Gheisi</a><br/>(2024 - present)</p>
+            <p><a href = "https://www.linkedin.com/in/leilagheisi/" target="_blank">Leila Gheisi</a><br/>(2024 - present)</p>
       </div>
       </center>
     </div>
