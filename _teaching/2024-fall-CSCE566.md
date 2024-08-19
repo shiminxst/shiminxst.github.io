@@ -70,7 +70,7 @@ Interested learners are recommended to the following texts:
 
 Item                     | Percentage | Note
 Homework                 | 30% |   2 HWs
-Midterm Exam             | 20%
+Midterm exam             | 20%
 Paper presentation       | 20% |  
 Project report and code  | 30% |
 
