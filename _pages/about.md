@@ -19,7 +19,7 @@ Our lab is dedicated to the interdisciplinary study of artificial intelligence (
 
 <br/>
 <br/>
-</br>
+<br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=323&t=n&d=Nou0Ifbq1nX6Hta8wfeCHuU25T0AiNU6imzluLbS05w'></script>
 
 <!--
