@@ -36,7 +36,7 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/sulaiman.png" class="author__avatar" alt="Sulaiman O Afolabi">
+            <img src="/images/img/students/sulaiman2.png" class="author__avatar" alt="Sulaiman O Afolabi">
       </div>
       <div class="author__content">
             <p><a href = "https://github.com/Data-Ar" target="_blank">Sulaiman O Afolabi</a><br/>(2024 - present)</p>
