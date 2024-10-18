@@ -21,8 +21,6 @@ Work Experience
   * Assistant Professor, School of Computing & Informatics
 - **Harvard Medical School**, Boston, MA,  Mar 2022 - Aug 2024
   * Postdoctoral Fellow, PI: Dr. Mengyu Wang
-- **Schepens Eye Research Institute**, Boston, MA,  Mar 2022 - Aug 2024
-  * Research Fellow, PI: Dr. Mengyu Wang
 - **Washington University School of Medicine in St. Louis**, Louis, MO, Aug 2020 - Mar 2022
   * Postdoctoral Fellow, PI: Dr. Shamim Mollah
   
