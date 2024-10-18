@@ -19,11 +19,9 @@ Work Experience
 ======
 - **University of Louisiana at Lafayette**, Lafayette, LA,  Aug 2024 - Present
   * Assistant Professor, School of Computing & Informatics
-- **Harvard Medical School**, Boston, MA,  Aug 2024 - Present
-  * Visiting Scholar
 - **Harvard Medical School**, Boston, MA,  Mar 2022 - Aug 2024
   * Postdoctoral Fellow, PI: Dr. Mengyu Wang
-- **Mass Eye and Ear**, Boston, MA,  Mar 2022 - Aug 2024
+- **Schepens Eye Research Institute**, Boston, MA,  Mar 2022 - Aug 2024
   * Research Fellow, PI: Dr. Mengyu Wang
 - **Washington University School of Medicine in St. Louis**, Louis, MO, Aug 2020 - Mar 2022
   * Postdoctoral Fellow, PI: Dr. Shamim Mollah
