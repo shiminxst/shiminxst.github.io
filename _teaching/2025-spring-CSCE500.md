@@ -1,7 +1,7 @@
 ---
 title: "2025-Spring-CSCE500-Design and Analysis of Algorithms"
 collection: teaching
-type: "Graduate Class"
+type: "Graduate Course"
 permalink: /teaching/2025-spring-CSCE500
 venue: "CSCE, ULL"
 date: 2025-01-15
