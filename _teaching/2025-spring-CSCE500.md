@@ -21,7 +21,7 @@ Learning Objectives
 
 - Study common data structures and algorithms.
 - Understand the design principles and efficiencies of various algorithms.
-- Gain hands-on experiences to design algorithms to solve practicle problems.
+- Gain hands-on experiences to design algorithms to solve practical problems.
 
 Prerequisites
 ======
