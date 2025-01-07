@@ -49,7 +49,7 @@ Index | Topics                               | Events
 8    | NP-completeness                       |
 9    | Exercise problems                     |
 10   | Project / paper presentation            |
-11   | Algorithm design competition          |
+11   | Algorithm design test          |
 12   | Final exam                            |
 
 ## Textbook
@@ -85,5 +85,5 @@ Final exam                   | 20%        |
 ## Project/paper presentation (20%)
 TBD
 
-## Algorithm design competition (10%)
+## Algorithm design test (10%)
 Each team, consisting of two students, will work together to solve a set of algorithm design problems.
