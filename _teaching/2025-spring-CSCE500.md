@@ -67,8 +67,8 @@ Index | Topics                               | Events
 
 Item                         | Percentage | Note
 Homework                     | 30%        | 3 HWs
-Project / paper presentation   | 20%        |  
-Algorithm design competition | 10%        | 
+Project / paper presentation | 20%        |  
+Algorithm design test        | 10%        | 
 Midterm exam                 | 20%        |   
 Final exam                   | 20%        |
 
