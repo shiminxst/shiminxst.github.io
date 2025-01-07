@@ -8,7 +8,8 @@ date: 2025-01-15
 location: "Lafayette, LA"
 ---
 
-**Class Time**: Mondays and Wednesdays, 10:00AM to 11:15AM.  **Room**: James R. Oliver, Room 113.
+**Class Time**: Mondays and Wednesdays, 10:00AM to 11:15AM.  
+**Room**: James R. Oliver, Room 113.
 
 Overview
 ======
