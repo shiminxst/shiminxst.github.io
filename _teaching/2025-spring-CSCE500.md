@@ -82,7 +82,7 @@ Final exam                   | 20%        |
 
 **HW Note**: All HWs due by the end of the day, Central Time. 
 
-## Project/Paper Assignment (20%)
+## Project / Paper Presentation (20%)
 TBD
 
 ## Algorithm design competition (10%)
