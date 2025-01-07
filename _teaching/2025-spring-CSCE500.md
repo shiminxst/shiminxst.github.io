@@ -45,12 +45,12 @@ Index | Topics                               | Events
 4    | Devide and conquer                    | HW2 out
 5    | Dynamic programming                   |
 6    | Greedy algorithm                      | HW3 out
-7    | Midterm Exam                          |
-8    | NP-Completeness                       |
-9    | Exercise Problems                     |
-10   | Project/Paper Presentation            |
-11   | Algorithm Design Competition          |
-12   | Final Exam                            |
+7    | Midterm exam                          |
+8    | NP-completeness                       |
+9    | Exercise problems                     |
+10   | Project / paper presentation            |
+11   | Algorithm design competition          |
+12   | Final exam                            |
 
 ## Textbook
 - <a herf="https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf">Introduction to Algorithms</a>, Fourth Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, The MIT Press, 2022, ISBN: 978–026204630–5
