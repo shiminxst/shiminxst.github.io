@@ -42,7 +42,7 @@ Index | Topics                               | Events
 1    | Introduction to class and algorithms  |
 2    | Graph basics                          | HW1 out
 3    | Graph algorithms                      |
-4    | Devide and conquer                    | HW2 out
+4    | Divide and conquer                    | HW2 out
 5    | Dynamic programming                   |
 6    | Greedy algorithm                      | HW3 out
 7    | Midterm exam                          |
