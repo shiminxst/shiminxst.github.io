@@ -2,9 +2,9 @@
 title: "2025-Fall-CSCE566-Data Mining"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2024-fall-CSCE566
+permalink: /teaching/2025-fall-CSCE566
 venue: "CSCE, ULL"
-date: 2025-08-56
+date: 2025-08-25
 location: "Lafayette, LA"
 ---
 
