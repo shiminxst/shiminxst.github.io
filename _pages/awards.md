@@ -5,10 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-# Funded Projects
+## Funded Projects
 
 <style>
-  /* --- Awards Card Styles --- */
+  /* --- Awards Card Styles (no left border highlight) --- */
   .awards { 
     counter-reset: item; 
     list-style: none; 
@@ -42,18 +42,13 @@ author_profile: true
   .award-meta b {
     font-weight: 600;
   }
-  /* nice spacing for multi-line sponsor text */
   .award-sponsor { margin-top: .2rem; }
 
-  /* Optional: subtle accent border */
-  .award-card { border-left: 4px solid #b30000; }
-
-  /* Respect dark mode */
+  /* Dark mode friendly */
   @media (prefers-color-scheme: dark) {
     .award-card { 
       background: #1e1f22; 
       border-color: #333; 
-      border-left-color: #ff6666;
       box-shadow: none;
     }
     .award-meta, .award-title { color: #eee; }
