@@ -9,6 +9,15 @@ author_profile: true
 
 <style>
   /* --- Awards Card Styles (no numbers) --- */
+  .awards {
+  list-style: none;   /* removes default bullets */
+  padding-left: 0;    /* removes indentation */
+  margin: 1rem 0 0;
+}
+
+.awards li {
+  list-style: none;   /* extra safety for browsers */
+}
   .award-card {
   border: 1px solid rgba(0,0,0,.12);
   border-radius: 10px;
