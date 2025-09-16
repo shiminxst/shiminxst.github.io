@@ -50,7 +50,7 @@ author_profile: true
 <ul class="awards">
   <li>
     <div class="award-card">
-      <h3 class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</h3>
+      <p class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</p>
       <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
       <p class="award-meta award-sponsor"><b>Sponsor:</b> Louisiana BorSF – Research Competitiveness Subprogram</p>
       <p class="award-meta"><b>Amount Awarded:</b> $181,392</p>
@@ -59,7 +59,7 @@ author_profile: true
   </li>
   <li>
     <div class="award-card">
-      <h3 class="award-title">AI-Powered Mobile Health Application for Accessible Diabetic Retinopathy Management</h3>
+      <p class="award-title">AI-Powered Mobile Health Application for Accessible Diabetic Retinopathy Management</p>
       <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
       <p class="award-meta award-sponsor"><b>Sponsor:</b> College of Sciences at University of Louisiana</p>
       <p class="award-meta"><b>Amount Awarded:</b> $25,000</p>
@@ -68,7 +68,7 @@ author_profile: true
   </li>
   <li>
     <div class="award-card">
-      <h3 class="award-title">EPSCoR Research Fellows: NSF: Cost-Effective AI for Image Analysis</h3>
+      <p class="award-title">EPSCoR Research Fellows: NSF: Cost-Effective AI for Image Analysis</p>
       <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
       <p class="award-meta award-sponsor"><b>Sponsor:</b> NSF</p>
       <p class="award-meta"><b>Amount Awarded:</b> $285,122</p>
