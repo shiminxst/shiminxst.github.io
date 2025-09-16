@@ -63,7 +63,7 @@ author_profile: true
     <div class="award-card">
       <p class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
-      <p class="award-meta award-sponsor">Sponsor: Louisiana BoRSF – Research Competitiveness Subprogram</p>
+      <p class="award-meta award-sponsor">Sponsor: Louisiana BoRSF - Research Competitiveness Subprogram (RCS) </p>
       <p class="award-meta">Amount Awarded: $181,392</p>
       <p class="award-meta">Grant Period: 06/01/2025 – 06/30/2028</p>
     </div>
