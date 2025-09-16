@@ -64,7 +64,7 @@ author_profile: true
     <div class="award-card">
       <p class="award-title">AI-Powered Mobile Health Application for Accessible Diabetic Retinopathy Management</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
-      <p class="award-meta award-sponsor">Sponsor: College of Sciences at University of Louisiana</p>
+      <p class="award-meta award-sponsor">Sponsor: UL Lafayette</p>
       <p class="award-meta">Amount Awarded: $25,000</p>
       <p class="award-meta">Grant Period: 08/18/2025 – 08/17/2027</p>
     </div>
