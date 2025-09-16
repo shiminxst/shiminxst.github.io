@@ -65,7 +65,7 @@ author_profile: true
     <div class="award-card">
       <h3 class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</h3>
       <p class="award-meta"><b>Principal Investigator:</b> Min Shi (Computing and Informatics)</p>
-      <p class="award-meta award-sponsor"><b>Sponsor:</b> Board of Regents Support Fund Research and Development Program – Research Competitiveness Subprogram</p>
+      <p class="award-meta award-sponsor"><b>Sponsor:</b> Louisiana BorSF – Research Competitiveness Subprogram</p>
       <p class="award-meta"><b>Amount Awarded:</b> $181,392</p>
       <p class="award-meta"><b>Grant Period:</b> 06/01/2025 – 06/30/2028</p>
     </div>
