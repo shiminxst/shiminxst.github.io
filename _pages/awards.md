@@ -63,8 +63,8 @@ author_profile: true
     <div class="award-card">
       <p class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
-      <p class="award-meta award-sponsor">Sponsor: Louisiana BoRSF - Research Competitiveness Subprogram (RCS) </p>
-      <p class="award-meta">Amount Awarded: $181,392</p>
+      <p class="award-meta award-sponsor">Sponsor: Louisiana BoRSF-RCS </p>
+      <p class="award-meta">Amount: $181,392</p>
       <p class="award-meta">Grant Period: 06/01/2025 – 06/30/2028</p>
     </div>
   </li>
@@ -74,7 +74,7 @@ author_profile: true
       <p class="award-title">AI-Powered Mobile Health Application for Diabetic Retinopathy Screening</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: UL Lafayette</p>
-      <p class="award-meta">Amount Awarded: $25,000</p>
+      <p class="award-meta">Amount: $25,000</p>
       <p class="award-meta">Grant Period: 08/18/2025 – 08/17/2027</p>
     </div>
   </li>
@@ -84,7 +84,7 @@ author_profile: true
       <p class="award-title">EPSCoR Research Fellows: NSF: Cost-Effective AI for Image Analysis</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: NSF</p>
-      <p class="award-meta">Amount Awarded: $285,122</p>
+      <p class="award-meta">Amount: $285,122</p>
       <p class="award-meta">Grant Period: 02/01/2026 – 01/31/2028</p>
     </div>
   </li>
