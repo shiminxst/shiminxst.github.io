@@ -65,7 +65,7 @@ author_profile: true
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: Louisiana BoRSF-RCS </p>
       <p class="award-meta">Amount: $181,392</p>
-      <p class="award-meta">Grant Period: 06/01/2025 – 06/30/2028</p>
+      <p class="award-meta">Duration: 06/01/2025 – 06/30/2028</p>
     </div>
   </li>
 
@@ -75,7 +75,7 @@ author_profile: true
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: UL Lafayette</p>
       <p class="award-meta">Amount: $25,000</p>
-      <p class="award-meta">Grant Period: 08/18/2025 – 08/17/2027</p>
+      <p class="award-meta">Duration: 08/18/2025 – 08/17/2027</p>
     </div>
   </li>
 
@@ -85,7 +85,7 @@ author_profile: true
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: NSF</p>
       <p class="award-meta">Amount: $285,122</p>
-      <p class="award-meta">Grant Period: 02/01/2026 – 01/31/2028</p>
+      <p class="award-meta">Duration: 02/01/2026 – 01/31/2028</p>
     </div>
   </li>
 </ul>
