@@ -12,8 +12,8 @@ main:
   - title: "Experience"
     url: /cv/
 
-#  - title: "Awards"
-#    url: /awards/
+  - title: "Projects"
+    url: /awards/
 
   - title: "Members"
     url: /lab/
