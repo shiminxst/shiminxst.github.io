@@ -9,38 +9,34 @@ author_profile: true
 
 <style>
   /* --- Awards Card Styles (no numbers) --- */
-  .awards { 
-    list-style: none; 
-    padding-left: 0; 
-    margin: 1rem 0 0;
-  }
-
   .award-card {
-    border: 1px solid rgba(0,0,0,.12);
-    border-radius: 10px;
-    padding: 1rem 1.25rem;
-    background: #fff;
-    box-shadow: 0 2px 6px rgba(0,0,0,.05);
-    margin-bottom: 1rem;
-  }
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 10px;
+  padding: 0.75rem 1rem;     /* reduced padding */
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,.05);
+  margin-bottom: 0.75rem;    /* less space between cards */
+}
 
-  /* Title slightly larger but not bold */
-  .award-title {
-    font-weight: 400;       /* no bold */
-    font-size: 1.1rem;      /* slightly larger than normal text */
-    margin: 0 0 .35rem 0;
-    color: #333;
-  }
+.award-title {
+  font-weight: 400;          /* normal weight */
+  font-size: 1.2rem;         /* slightly larger than text */
+  margin: 0 0 0.25rem 0;     /* reduced margin below title */
+  line-height: 1.3;          /* tighter line height */
+}
 
-  /* Normal text style */
-  .award-meta {
-    margin: .2rem 0;
-    color: #333;
-    font-weight: 400;       /* remove bold */
-    font-size: 1rem;
-  }
+.award-meta {
+  margin: 0.1rem 0;          /* very small margin between lines */
+  color: #333;
+  font-weight: 400;          /* normal weight */
+  font-size: 1rem;
+  line-height: 1.3;          /* tighter line height */
+}
 
-  .award-sponsor { margin-top: .2rem; }
+.award-sponsor {
+  margin-top: 0.1rem;        /* almost no extra margin */
+}
+
 
   /* Dark mode friendly */
   @media (prefers-color-scheme: dark) {
