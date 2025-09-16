@@ -55,7 +55,7 @@ author_profile: true
   }
 </style>
 
-<ol class="awards">
+<ul class="awards">
   <li>
     <div class="award-card">
       <h3 class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</h3>
@@ -65,4 +65,4 @@ author_profile: true
       <p class="award-meta"><b>Grant Period:</b> 06/01/2025 – 06/30/2028</p>
     </div>
   </li>
-</ol>
+</ul>
