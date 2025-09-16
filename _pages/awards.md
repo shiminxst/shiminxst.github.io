@@ -8,16 +8,11 @@ author_profile: true
 ## Funded Projects & Grants
 
 <style>
-  /* --- Awards Card Styles (no left border highlight) --- */
+  /* --- Awards Card Styles (no numbers) --- */
   .awards { 
-    counter-reset: item; 
     list-style: none; 
     padding-left: 0; 
     margin: 1rem 0 0;
-  }
-  .awards > li {
-    counter-increment: item;
-    margin: 0 0 1rem 0;
   }
   .award-card {
     border: 1px solid rgba(0,0,0,.12);
@@ -25,15 +20,11 @@ author_profile: true
     padding: 1rem 1.25rem;
     background: #fff;
     box-shadow: 0 2px 6px rgba(0,0,0,.05);
+    margin-bottom: 1rem;
   }
   .award-title {
     font-weight: 700;
     margin: 0 0 .35rem 0;
-  }
-  .award-title::before {
-    content: counter(item) ". ";
-    font-weight: 600;
-    color: #444;
   }
   .award-meta {
     margin: .2rem 0;
