@@ -27,7 +27,7 @@ author_profile: true
   /* Title slightly larger but not bold */
   .award-title {
     font-weight: 400;       /* no bold */
-    font-size: 1.2rem;      /* slightly larger than normal text */
+    font-size: 1.1rem;      /* slightly larger than normal text */
     margin: 0 0 .35rem 0;
     color: #333;
   }
