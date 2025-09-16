@@ -71,7 +71,7 @@ author_profile: true
 
   <li>
     <div class="award-card">
-      <p class="award-title">AI-Powered Mobile Health Application for Accessible Diabetic Retinopathy Management</p>
+      <p class="award-title">AI-Powered Mobile Health Application for Diabetic Retinopathy Screening</p>
       <p class="award-meta">Principal Investigator: Min Shi</p>
       <p class="award-meta award-sponsor">Sponsor: UL Lafayette</p>
       <p class="award-meta">Amount Awarded: $25,000</p>
