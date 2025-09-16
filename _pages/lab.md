@@ -16,7 +16,7 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/zubair.png" class="author__avatar" alt="Md Zubair">
+            <img src="/images/img/students/Zubair.png" class="author__avatar" alt="Md Zubair">
       </div>
       <div class="author__content">
             <p><a href = "https://zubair063.github.io/" target="_blank">Md Zubair</a><br/>(2024 - present)</p>
