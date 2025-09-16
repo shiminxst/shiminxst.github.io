@@ -24,6 +24,7 @@ author_profile: true
   }
   .award-title {
     font-weight: 700;
+    font-size: 1rem;
     margin: 0 0 .35rem 0;
   }
   .award-meta {
@@ -54,6 +55,15 @@ author_profile: true
       <p class="award-meta award-sponsor"><b>Sponsor:</b> Louisiana BorSF – Research Competitiveness Subprogram</p>
       <p class="award-meta"><b>Amount Awarded:</b> $181,392</p>
       <p class="award-meta"><b>Grant Period:</b> 06/01/2025 – 06/30/2028</p>
+    </div>
+  </li>
+  <li>
+    <div class="award-card">
+      <h3 class="award-title">AI-Powered Mobile Health Application for Accessible Diabetic Retinopathy Management</h3>
+      <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
+      <p class="award-meta award-sponsor"><b>Sponsor:</b> College of Sciences at University of Louisiana</p>
+      <p class="award-meta"><b>Amount Awarded:</b> $25,000</p>
+      <p class="award-meta"><b>Grant Period:</b> 08/18/2025 – 08/17/2027</p>
     </div>
   </li>
   <li>
