@@ -29,7 +29,7 @@ author_profile: true
 
 .award-title {
   font-weight: 400;          /* normal weight */
-  font-size: 1.1rem;         /* slightly larger than text */
+  font-size: 1.05rem;         /* slightly larger than text */
   margin: 0 0 0.25rem 0;     /* reduced margin below title */
   line-height: 1.3;          /* tighter line height */
 }
