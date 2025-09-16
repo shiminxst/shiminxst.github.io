@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Funded Projects
+## Funded Projects & Grants
 
 <style>
   /* --- Awards Card Styles (no left border highlight) --- */
