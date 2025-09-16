@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+# Funded Projects
+
 1. **Mitigating Unfairness in Foundation Models for Medical Applications**  
 PI: Min Shi
 Sponsor: Board of Regents Support Fund Research and Development Program – Research Competitiveness Subprogram  
