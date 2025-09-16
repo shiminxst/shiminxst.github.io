@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Funded Projects & Grants
+## Funded Projects & Awards
 
 <style>
   /* --- Awards Card Styles (no numbers) --- */
@@ -50,7 +50,7 @@ author_profile: true
   <li>
     <div class="award-card">
       <h3 class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</h3>
-      <p class="award-meta"><b>Principal Investigator:</b> Min Shi (Computing and Informatics)</p>
+      <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
       <p class="award-meta award-sponsor"><b>Sponsor:</b> Louisiana BorSF – Research Competitiveness Subprogram</p>
       <p class="award-meta"><b>Amount Awarded:</b> $181,392</p>
       <p class="award-meta"><b>Grant Period:</b> 06/01/2025 – 06/30/2028</p>
@@ -58,11 +58,11 @@ author_profile: true
   </li>
   <li>
     <div class="award-card">
-      <h3 class="award-title">Mitigating Unfairness in Foundation Models for Medical Applications</h3>
-      <p class="award-meta"><b>Principal Investigator:</b> Min Shi (Computing and Informatics)</p>
-      <p class="award-meta award-sponsor"><b>Sponsor:</b> Louisiana BorSF – Research Competitiveness Subprogram</p>
-      <p class="award-meta"><b>Amount Awarded:</b> $181,392</p>
-      <p class="award-meta"><b>Grant Period:</b> 06/01/2025 – 06/30/2028</p>
+      <h3 class="award-title">EPSCoR Research Fellows: NSF: Cost-Effective AI for Image Analysis</h3>
+      <p class="award-meta"><b>Principal Investigator:</b> Min Shi </p>
+      <p class="award-meta award-sponsor"><b>Sponsor:</b> NSF</p>
+      <p class="award-meta"><b>Amount Awarded:</b> $285,122</p>
+      <p class="award-meta"><b>Grant Period:</b> 02/01/2026  – 01/31/2028</p>
     </div>
   </li>
 </ul>
