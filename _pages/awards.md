@@ -20,7 +20,7 @@ author_profile: true
 }
   .award-card {
   border: 1px solid rgba(0,0,0,.12);
-  border-radius: 10px;
+  border-radius: 8px;
   padding: 0.75rem 1rem;     /* reduced padding */
   background: #fff;
   box-shadow: 0 2px 6px rgba(0,0,0,.05);
@@ -29,7 +29,7 @@ author_profile: true
 
 .award-title {
   font-weight: 400;          /* normal weight */
-  font-size: 1rem;         /* slightly larger than text */
+  font-size: 0.9rem;         /* slightly larger than text */
   margin: 0 0 0.25rem 0;     /* reduced margin below title */
   line-height: 1.3;          /* tighter line height */
 }
