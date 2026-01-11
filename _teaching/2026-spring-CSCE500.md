@@ -1,15 +1,14 @@
 ---
 title: "2026-Spring-CSCE500-Design and Analysis of Algorithms"
 collection: teaching
-type: "Graduate Course"
+type: "Graduate Class"
 permalink: /teaching/2026-spring-CSCE500
 venue: "CSCE, ULL"
 date: 2026-01-14
 location: "Lafayette, LA"
 ---
 
-**Class Time**: Mondays and Wednesdays, 10:00AM to 11:15AM.  
-**Room**: James R. Oliver, Room 113.
+**Class Time**: Mondays and Wednesdays, 10:00AM to 11:15AM.  **Room**: James R. Oliver, Room 113.
 
 Overview
 ======
@@ -21,7 +20,7 @@ Learning Objectives
 
 - Study common data structures and algorithms.
 - Understand the design principles and efficiencies of various algorithms.
-- Gain hands-on experiences to design algorithms to solve practical problems.
+- Gain hands-on experiences to design algorithms to solve practicle problems.
 
 Prerequisites
 ======
@@ -42,15 +41,15 @@ Index | Topics                               | Events
 1    | Introduction to class and algorithms  |
 2    | Graph basics                          | HW1 out
 3    | Graph algorithms                      |
-4    | Divide and conquer                    | HW2 out
+4    | Devide and conquer                    | HW2 out
 5    | Dynamic programming                   |
 6    | Greedy algorithm                      | HW3 out
-7    | Midterm exam                          |
-8    | NP-completeness                       |
-9    | Exercise problems                     |
-10   | Project / paper presentation            |
-11   | Algorithm design test          |
-12   | Final exam                            |
+7    | Midterm Exam                          |
+8    | NP-Completeness                       |
+9    | Exercise Problems                     |
+10   | Project/Paper Presentation            |
+11   | Algorithm Design Competition          |
+12   | Final Exam                            |
 
 ## Textbook
 - <a herf="https://dl.ebooksworld.ir/books/Introduction.to.Algorithms.4th.Leiserson.Stein.Rivest.Cormen.MIT.Press.9780262046305.EBooksWorld.ir.pdf">Introduction to Algorithms</a>, Fourth Edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, The MIT Press, 2022, ISBN: 978–026204630–5
@@ -67,7 +66,7 @@ Index | Topics                               | Events
 
 Item                         | Percentage | Note
 Homework                     | 30%        | 3 HWs
-Project / paper presentation | 20%        |  
+Project/Paper presentation   | 20%        |  
 Midterm exam                 | 20%        |   
 Final exam                   | 30%        |
 
@@ -81,8 +80,8 @@ Final exam                   | 30%        |
 
 **HW Note**: All HWs due by the end of the day, Central Time. 
 
-## Project/paper presentation (20%)
+## Project/Paper Assignment (20%)
 TBD
 
-## Algorithm design test (10%)
+## Algorithm design competition (10%)
 Each team, consisting of two students, will work together to solve a set of algorithm design problems.
