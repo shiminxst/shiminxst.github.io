@@ -88,4 +88,14 @@ author_profile: true
       <p class="award-meta">Duration: 02/2026 – 01/2028</p>
     </div>
   </li>
+
+  <li>
+    <div class="award-card">
+      <p class="award-title">Federated Deep Learning Environment for the Screening of Diabetic Retinopathy and Glaucoma</p>
+      <p class="award-meta">Role: Co-PI</p>
+      <p class="award-meta award-sponsor">Sponsor: The Eye, Ear, Nose & Throat Hospital and Foundation</p>
+      <p class="award-meta">Amount: $373,340</p>
+      <p class="award-meta">Duration: 09/2026 – 09/2029</p>
+    </div>
+  </li>
 </ul>
