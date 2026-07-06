@@ -9,12 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Work Experience
 ======
-* Ph.D in Computer Science, Florida Atlantic University, USA, 2020
-
-Work Experience
-======
+- ** Ph.D in Computer Science, Florida Atlantic University, USA, 2020
 - **University of Louisiana at Lafayette**, Lafayette, LA,  Aug 2024 - Present
   * Assistant Professor, School of Computing & Informatics
 - **Harvard Medical School**, Boston, MA,  Mar 2022 - Aug 2024
