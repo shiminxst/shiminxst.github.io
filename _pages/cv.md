@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Florida Atlantic University, USA, 2020
-* M.S. in Software Engineering, Hunan University of Science and Technology, China 2017
-* B.E. in Software Engineering, Yangtze University, China, 2014
 
 Work Experience
 ======
