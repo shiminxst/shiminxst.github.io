@@ -18,7 +18,7 @@ Education & Work Experience
 - **Washington University in St. Louis**, Louis, MO, Aug 2020 - Mar 2022
   * Postdoctoral Fellow
 - **Florida Atlantic University**, Boca, FL, USA, 2018 - 2020
-  * Ph.D in Computer Science
+  * Ph.D. in Computer Science
   
 Service and Leadership
 ======
