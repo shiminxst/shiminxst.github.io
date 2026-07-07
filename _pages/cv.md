@@ -22,6 +22,8 @@ Education & Work Experience
   
 Service and Leadership
 ======
+- Associate Editor (2025 - present)
+  * International Journal of Software Engineering and Knowledge Engineering
 - Guest Editor
   * MDPI Sensors
 - Conference Publicity Co-chair
@@ -40,6 +42,7 @@ Service and Leadership
 
 Awards & Honors
 ======
+- UL Lafayette Rising Star Award 2026
 - Arvo Conference Travel Grant 2023
 - Research Assistant of the Year at Florida Atlantic University 2020.
 - IEEE SCC Best Student Conference Paper on Services Computing 2019.
