@@ -17,7 +17,7 @@ Education & Work Experience
   * Postdoctoral Fellow
 - **Washington University School of Medicine in St. Louis**, Louis, MO, Aug 2020 - Mar 2022
   * Postdoctoral Fellow
-- **Florida Atlantic University**, USA, 2018 - 2020
+- **Florida Atlantic University**, Boca, FL, USA, 2018 - 2020
   * Ph.D in Computer Science
   
 Service and Leadership
